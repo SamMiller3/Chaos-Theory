@@ -1,0 +1,8 @@
+[package]
+name = "mandlebrot_set"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num-complex = "0.4.6"
+plotters = "0.3"
