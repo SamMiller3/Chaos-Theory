@@ -1,2 +1,3 @@
 # Chaos-Theory
-<img width="1483" height="1052" alt="image" src="https://github.com/user-attachments/assets/a5bc2944-f58f-4e45-b9ee-ca3829bb6f47" />
+## Mandlebrot Set
+<img width="864" height="532" alt="image" src="https://github.com/user-attachments/assets/2243c54a-4339-4b5d-b13c-94e1b1294da9" />
